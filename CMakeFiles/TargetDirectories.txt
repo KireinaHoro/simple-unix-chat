@@ -1,0 +1,2 @@
+/home/johnson/Programming/simple-unix-chat/CMakeFiles/sucserver.dir
+/home/johnson/Programming/simple-unix-chat/CMakeFiles/succlient.dir

@@ -1,1 +1,5 @@
 suc*
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
